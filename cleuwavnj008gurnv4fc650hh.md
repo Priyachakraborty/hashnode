@@ -9,7 +9,7 @@ tags: programming-blogs, python, coding, python-beginner, day1
 
 ---
 
-This blog is for beginners, who are willing to learn python. Starting from day 1 to day 30. I am going to cover the all basic topics of python that will be helpful for beginners.
+This blog is for beginners, who are willing to learn python. Starting from day 1 to day 15. I am going to cover the all basic topics of python that will be helpful for beginners.
 
 # Day 1 :
 
