@@ -1,6 +1,6 @@
 ---
 title: "🐍Python - ZerO to HerO (BASIC Knowledge)"
-seoTitle: "Python Programming"
+seoTitle: "Python-Zero-to-Hero-Basic-knowledge"
 datePublished: Mon May 01 2023 08:18:39 GMT+0000 (Coordinated Universal Time)
 cuid: clh4kjniv000009mh32snc0py
 slug: python-zero-to-hero-basic-knowledge
