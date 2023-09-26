@@ -3,7 +3,7 @@ title: "DAY 24 of PYTHON top 100 questions : from Basic to Advanced !!"
 datePublished: Mon Sep 25 2023 18:04:03 GMT+0000 (Coordinated Universal Time)
 cuid: clmz76p6g00040aid4ehm0gag
 slug: day-24-of-python-top-100-questions-from-basic-to-advanced
-cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/842ofHC6MaI/upload/9db2b2498bebd0e6e7d57d8ddba5c320.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1695717930080/cd0577e8-9304-47cd-8ec6-6a6e2c7cd669.png
 tags: python, python3, basics-of-python
 
 ---
