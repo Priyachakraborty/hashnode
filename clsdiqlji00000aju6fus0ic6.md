@@ -9,13 +9,13 @@ tags: automation, electrical, plc, plcprogramming
 
 ---
 
-# **Introduction to PLCs :**
+# 📌**Introduction to PLCs :**
 
-## 📌Definition and purpose of PLCs :
+## 📝Definition and purpose of PLCs :
 
 **A Programmable Logic Controller (PLC) is a specialized computing device used in industrial control systems for automating processes and machinery.** PLCs are designed to monitor inputs, make decisions based on programmed logic, and control outputs to automate a wide range of industrial tasks. They are robust, reliable, and capable of operating in harsh industrial environments.
 
-📝**Purpose of PLCs:**
+🔍**Purpose of PLCs:**
 
 The primary purpose of PLCs is to control and automate industrial processes, replacing traditional relay control systems with more flexible and programmable solutions. Some key purposes of PLCs include:
 
