@@ -5,7 +5,6 @@ datePublished: Mon May 01 2023 08:18:39 GMT+0000 (Coordinated Universal Time)
 cuid: clh4kjniv000009mh32snc0py
 slug: python-zero-to-hero-basic-knowledge
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/cxMJYcuCLEA/upload/d17e98ab2e49d34fa7acbe94c987bb03.jpeg
-tags: programming-blogs, python3, coding, python-beginner, basics-of-python
 
 ---
 
